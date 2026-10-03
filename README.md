@@ -2,8 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2A2312&height=220&section=header&text=Thamizhazhagan%20L&fontSize=54&fontColor=FFBE0B&fontAlignY=38&animation=fadeIn&desc=Java%20Backend%20Developer&descSize=22&descColor=FFF3CF&descAlignY=60" alt="Thamizhazhagan L banner" width="100%"/>
 
+# தமிழழகன் | Thamizhazhagan L
+
+### Java Backend Developer
+
 <a href="https://github.com/Thamizh70">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pduration=2500&pause=700&color=FFBE0B&center=true&vCenter=true&width=720&lines=Java+21+%C2%B7+Spring+Boot+%C2%B7+REST+APIs;PostgreSQL+%C2%B7+JPA+%C2%B7+Hibernate;Building+Nexio%3A+a+ride-hailing+microservices+platform" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=FFBE0B&center=true&vCenter=true&width=720&lines=Java+21+%C2%B7+Spring+Boot+%C2%B7+REST+APIs;PostgreSQL+%C2%B7+JPA+%C2%B7+Hibernate;Building+Nexio%3A+a+ride-hailing+microservices+platform" alt="Typing animation"/>
 </a>
 
 <br/><br/>
@@ -11,9 +15,11 @@
 <a href="https://github.com/Thamizh70">
   <img src="https://img.shields.io/badge/GitHub-Thamizh70-2A2312?style=for-the-badge&logo=github&logoColor=FFBE0B" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/thamizhazhagan-lakshmanan-ba0703233/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-FFBE0B?style=for-the-badge&logo=linkedin&logoColor=2A2312" alt="LinkedIn"/>
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=Thamizh70&label=Profile+Views&color=FFBE0B&labelColor=2A2312&style=for-the-badge" alt="Profile views"/>
 
 </div>
@@ -24,7 +30,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Java Backend Developer** focused on building backend applications and REST APIs with Java and Spring Boot. I learn by building projects that need real backend decisions, not just simple CRUD apps.
+I'm a **Java Backend Developer** focused on building backend applications and REST APIs using Java and Spring Boot.
+
+I learn by building projects that require practical backend decisions rather than only simple CRUD applications.
 
 <table>
 <tr>
@@ -39,6 +47,7 @@ I'm a **Java Backend Developer** focused on building backend applications and RE
 - 🔐 Authentication and authorization
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🚀 Also Working On
@@ -59,34 +68,41 @@ I'm a **Java Backend Developer** focused on building backend applications and RE
 
 ## 🛠️ Technical Skills
 
-**Backend**
+### Backend
 
-![Java](https://img.shields.io/badge/Java_21-2A2312?style=for-the-badge&logo=openjdk&logoColor=FFBE0B)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-2A2312?style=for-the-badge&logo=springboot&logoColor=FFBE0B)
-![Spring Security](https://img.shields.io/badge/Spring_Security-2A2312?style=for-the-badge&logo=springsecurity&logoColor=FFBE0B)
-![REST APIs](https://img.shields.io/badge/REST_APIs-2A2312?style=for-the-badge&logo=postman&logoColor=FFBE0B)
+<p>
+<img src="https://img.shields.io/badge/Java_21-2A2312?style=for-the-badge&logo=openjdk&logoColor=FFBE0B" alt="Java 21"/>
+<img src="https://img.shields.io/badge/Spring_Boot-2A2312?style=for-the-badge&logo=springboot&logoColor=FFBE0B" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Spring_Security-2A2312?style=for-the-badge&logo=springsecurity&logoColor=FFBE0B" alt="Spring Security"/>
+<img src="https://img.shields.io/badge/REST_APIs-2A2312?style=for-the-badge&logo=postman&logoColor=FFBE0B" alt="REST APIs"/>
+</p>
 
-**Database**
+### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2A2312?style=for-the-badge&logo=postgresql&logoColor=FFBE0B)
-![JPA](https://img.shields.io/badge/JPA-2A2312?style=for-the-badge&logo=hibernate&logoColor=FFBE0B)
-![Hibernate](https://img.shields.io/badge/Hibernate-2A2312?style=for-the-badge&logo=hibernate&logoColor=FFBE0B)
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-2A2312?style=for-the-badge&logo=postgresql&logoColor=FFBE0B" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/JPA-2A2312?style=for-the-badge&logo=hibernate&logoColor=FFBE0B" alt="JPA"/>
+<img src="https://img.shields.io/badge/Hibernate-2A2312?style=for-the-badge&logo=hibernate&logoColor=FFBE0B" alt="Hibernate"/>
+</p>
 
-**Tools**
+### Tools
 
-![Git](https://img.shields.io/badge/Git-2A2312?style=for-the-badge&logo=git&logoColor=FFBE0B)
-![Maven](https://img.shields.io/badge/Maven-2A2312?style=for-the-badge&logo=apachemaven&logoColor=FFBE0B)
-![Postman](https://img.shields.io/badge/Postman-2A2312?style=for-the-badge&logo=postman&logoColor=FFBE0B)
+<p>
+<img src="https://img.shields.io/badge/Git-2A2312?style=for-the-badge&logo=git&logoColor=FFBE0B" alt="Git"/>
+<img src="https://img.shields.io/badge/Maven-2A2312?style=for-the-badge&logo=apachemaven&logoColor=FFBE0B" alt="Maven"/>
+<img src="https://img.shields.io/badge/Postman-2A2312?style=for-the-badge&logo=postman&logoColor=FFBE0B" alt="Postman"/>
+</p>
 
-**Learning / Integration Roadmap**
+### Learning / Integration Roadmap
 
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-FFBE0B?style=for-the-badge&logo=spring&logoColor=2A2312)
-![Kafka](https://img.shields.io/badge/Kafka-FFBE0B?style=for-the-badge&logo=apachekafka&logoColor=2A2312)
-![Redis](https://img.shields.io/badge/Redis-FFBE0B?style=for-the-badge&logo=redis&logoColor=2A2312)
-![Docker](https://img.shields.io/badge/Docker-FFBE0B?style=for-the-badge&logo=docker&logoColor=2A2312)
+<p>
+<img src="https://img.shields.io/badge/Spring_Cloud-FFBE0B?style=for-the-badge&logo=spring&logoColor=2A2312" alt="Spring Cloud"/>
+<img src="https://img.shields.io/badge/Kafka-FFBE0B?style=for-the-badge&logo=apachekafka&logoColor=2A2312" alt="Kafka"/>
+<img src="https://img.shields.io/badge/Redis-FFBE0B?style=for-the-badge&logo=redis&logoColor=2A2312" alt="Redis"/>
+<img src="https://img.shields.io/badge/Docker-FFBE0B?style=for-the-badge&logo=docker&logoColor=2A2312" alt="Docker"/>
+</p>
 
-> [!NOTE]
-> The amber badges are part of my current learning and integration roadmap. I don't present planned work as production experience.
+> **Note:** The amber badges represent technologies currently being learned or integrated into the Nexio project. They are not presented as production experience.
 
 <br/>
 
@@ -100,12 +116,17 @@ I'm a **Java Backend Developer** focused on building backend applications and RE
 
 </div>
 
-Nexio is a backend project that models a real-world ride-hailing platform using independently organized services.
+### Nexio
+
+A backend project designed to model a real-world ride-hailing platform using independently organized services.
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#2A2312','primaryTextColor':'#FFBE0B','primaryBorderColor':'#FFBE0B','lineColor':'#FFBE0B','secondaryColor':'#FFBE0B','tertiaryColor':'#2A2312'}}}%%
+
 flowchart TB
+
     G{{"🚪 API Gateway"}} --> D{{"🧭 Service Discovery"}}
+
     G --> A["🔐 Auth"]
     G --> U["👤 User"]
     G --> DR["🧑‍✈️ Driver"]
@@ -115,6 +136,7 @@ flowchart TB
     G --> PY["💳 Payment"]
     G --> N["🔔 Notification"]
     G --> RT["⭐ Rating"]
+
     R --> L
     R --> P
     R --> PY
@@ -126,7 +148,7 @@ flowchart TB
     style R fill:#FFBE0B,stroke:#2A2312,color:#2A2312,stroke-width:3px
 ```
 
-**Project focus**
+### Project Focus
 
 | 🔐 Security | 🚖 Ride Domain | 🧩 Architecture |
 |:--|:--|:--|
@@ -149,8 +171,17 @@ flowchart TB
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#2A2312','primaryTextColor':'#FFBE0B','primaryBorderColor':'#FFBE0B','lineColor':'#FFBE0B'}}}%%
+
 flowchart LR
-    A["☕ Java"] --> B["🌱 Spring Boot"] --> C["🔐 Spring Security"] --> D["🐘 SQL & PostgreSQL"] --> E["🧩 Microservices"] --> F["🏗️ System Design"] --> G["🌐 Distributed Systems"]
+
+    A["☕ Java"]
+    --> B["🌱 Spring Boot"]
+    --> C["🔐 Spring Security"]
+    --> D["🐘 SQL & PostgreSQL"]
+    --> E["🧩 Microservices"]
+    --> F["🏗️ System Design"]
+    --> G["🌐 Distributed Systems"]
+
     style A fill:#FFBE0B,color:#2A2312,stroke:#2A2312
     style B fill:#FFBE0B,color:#2A2312,stroke:#2A2312
     style C fill:#FFBE0B,color:#2A2312,stroke:#2A2312
@@ -167,6 +198,7 @@ flowchart LR
 <td align="center" width="25%">🗄️<br/><b>Database Design</b></td>
 <td align="center" width="25%">🧩<br/><b>Service Responsibilities</b></td>
 </tr>
+
 <tr>
 <td align="center">🛡️<br/><b>Error Handling</b></td>
 <td align="center">🔗<br/><b>Service Communication</b></td>
@@ -181,7 +213,8 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thamizh70&show_icons=true&hide_border=true&bg_color=2A2312&title_color=FFBE0B&text_color=FFF3CF&icon_color=FFBE0B&ring_color=FFBE0B" alt="GitHub stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Thamizh70&show_icons=true&hide_border=true&bg_color=2A2312&title_color=FFBE0B&text_color=FFF3CF&icon_color=FFBE0B&ring_color=FFBE0B" alt="GitHub statistics" height="170"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamizh70&layout=compact&hide_border=true&bg_color=2A2312&title_color=FFBE0B&text_color=FFF3CF" alt="Top languages" height="170"/>
 
 <br/><br/>
@@ -203,7 +236,9 @@ flowchart LR
 <a href="https://www.linkedin.com/in/thamizhazhagan-lakshmanan-ba0703233/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-FFBE0B?style=for-the-badge&logo=linkedin&logoColor=2A2312" alt="LinkedIn"/>
 </a>
+
 &nbsp;
+
 <a href="https://github.com/Thamizh70">
   <img src="https://img.shields.io/badge/GitHub-Thamizh70-2A2312?style=for-the-badge&logo=github&logoColor=FFBE0B" alt="GitHub"/>
 </a>
@@ -212,6 +247,6 @@ flowchart LR
 
 **Java • Spring Boot • Microservices • Backend Engineering**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2A2312&height=120&section=footer" width="100%" alt="footer"/>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2A2312&height=120&section=footer" width="100%" alt="footer"/>
